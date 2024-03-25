@@ -1,0 +1,5 @@
+export PATH="/goinfre/glamazer/flutter/bin:$PATH"
+export ANDROID_SKD_ROOT="/goinfre/glamazer"
+export PATH="$ANDROID_SKD_ROOT/platform-tools:$PATH"
+export GRADLE_USER_HOME="/goinfre/glamazer/.gradle"
+export FLUTTER_BUILD_DIR="/goinfre/glamazer/flutter_build"
